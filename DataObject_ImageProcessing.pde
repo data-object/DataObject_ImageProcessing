@@ -1,4 +1,5 @@
 /*****************************************************************
+
 DATA OBJECT - RISD Wintersession 2017
 
 Pixels as data: simple image processing
@@ -17,6 +18,7 @@ of a jpg by pressing 's'.
 Begin by making some modifications to the image processing para-
 meters and trying some new images, then build the sketch into
 something new.  
+
 *****************************************************************/
 
 // Global variables up here (before setup): these are accessible to the entire sketch
